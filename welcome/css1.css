@@ -1,0 +1,79 @@
+body {
+
+   
+ background: url(https://t4.ftcdn.net/jpg/03/98/35/87/360_F_398358705_T8OzrM373dnvteJMJRXAld7ER4yHRWqk.jpg);
+ background-attachment: fixed;
+ background-repeat: round; 
+ background-size: cover;
+
+
+}
+
+h1 {
+
+    display: block; 
+    margin-left: 50%;
+    width: 120px; 
+    
+}
+
+ #content {
+
+    border: 1px dashed;
+     
+}
+
+h1, h2, h3 {
+      
+      border: 1px dotted; 
+      display: block;
+      width: 180px; 
+      height: 130px; 
+      font-size: 120px; 
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color:beige;
+      box-shadow: rgb(150,150,150) 5px 5px;
+      text-shadow: rgb(150,150,150) 10px 10px; 
+      font: bold 25px;
+      font-size: 50px;
+      
+}
+
+h2 {
+
+    margin-left: 50%;
+}
+
+#nav1 {
+
+    display: block; 
+    width: 100%; 
+    height: 30px; 
+    color: rgb(0, 76, 255); 
+    border: 1px dotted;
+    box-shadow: rgba(236, 236, 236, 0.85) 10px 10px;
+     
+}
+
+a {
+
+    display: block; 
+    color: gray; 
+    font: arial; 
+    position: relative; 
+    padding-left: 15px; 
+    font-size: 25px; 
+    text-align: center; 
+   
+}
+#shareddreamscanvas{
+
+    color: red; 
+   
+
+    position: absolute; 
+    margin-bottom: 100%; 
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
